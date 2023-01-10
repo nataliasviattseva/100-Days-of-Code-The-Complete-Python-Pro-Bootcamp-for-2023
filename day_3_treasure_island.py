@@ -1,5 +1,5 @@
 # https://replit.com/@nsviattseva/treasure-island-start#main.py
-
+# source of an image https://ascii.co.uk/art
 print('''
 *******************************************************************************
           |                   |                  |                     |
