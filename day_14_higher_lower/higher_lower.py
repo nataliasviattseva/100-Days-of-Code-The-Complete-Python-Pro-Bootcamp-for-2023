@@ -9,6 +9,7 @@ def select_random_entry():
     return [data[random].get("name"), data[random].get("follower_count"), \
            data[random].get("description"), data[random].get("country")]
 
+
 def compare(a, b, score):
     # print(f"followers a: {a}, followers b: {b}")
     end_game = False
